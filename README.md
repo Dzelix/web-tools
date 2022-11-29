@@ -5,7 +5,7 @@
 - [x] [Size Limit](https://github.com/ai/size-limit) Size Limit is a performance budget tool for JavaScript
 - [x] [Million](https://millionjs.org) Virtual DOM into the future
 - [x] [grex-js](https://pemistahl.github.io/grex-js/)
-- [x] [NodeGui](https://docs.nodegui.org) Build performant, native, cross platform desktop apps with JavaScript and CSS []()
+- [x] [NodeGui](https://docs.nodegui.org) Build performant, native, cross platform desktop apps with JavaScript and CSS
 - [x] [Partytown](https://partytown.builder.io) Partytown is a lazy-loaded library to help relocate resource intensive scripts into a web worker
 - [x] [Hyper Fetch](https://hyperfetch.bettertyped.com) Ultimate framework for data exchange, asynchronous state management, complex persistence and queueing.
 - [x] [lusift](https://lusift.vercel.app) Javascript library to create product walkthroughs for your web app
@@ -19,7 +19,7 @@
 - [x] [NPKILL](https://github.com/voidcosmos/npkill) Easily find and remove old and heavy node_modules folders
 - [x] [route-list](https://github.com/VladimirMikulic/route-list)  Beautifully shows Express/Koa/Hapi/Fastify routes in CLI.
 - [x] [DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) DgrmJS is a JavaScript library for creating SVG flow diagram editors.
-- [x] [El](https://github.com/frameable/el) Minimal JavaScript application framework inspired by React, Vue, and lit-element [код](https://github.com/yudeek/javascript-tools/tree/el)
+- [x] [El](https://github.com/frameable/el) Minimal JavaScript application framework inspired by React, Vue, and lit-element
 - [x] [SVGuitar](https://github.com/omnibrain/svguitar) JavaScript (TypeScript) library to create beautiful SVG guitar chord charts directly in the browser.
 - [x] [reveal.js](https://github.com/hakimel/reveal.js) reveal.js is an open source HTML presentation framework
 - [x] [Peaks.js](https://github.com/bbc/peaks.js) A client-side JavaScript component to display and interact with audio waveforms in the browser
