@@ -7,9 +7,11 @@
 - [ ] [Quick](https://qwik.builder.io)
 - [ ] [Stencil](https://stenciljs.com)
 - [ ] [Docusaurus](https://docusaurus.io)
+- [ ] [redwoodjs](https://redwoodjs.com)
 
 # Tools
 
+- [ ] [EventEmitter3](https://github.com/primus/eventemitter3)
 - [x] [Embla Carousel](https://www.embla-carousel.com) A lightweight carousel library with fluid motion and great swipe precision
 - [x] [colorgrad-js](https://github.com/mazznoer/colorgrad-js) High-performance Javascript color gradient library powered by Rust + WebAssembly
 - [x] [safe-json](https://github.com/ehmicky/safe-json-value) JSON serialization should never fail
