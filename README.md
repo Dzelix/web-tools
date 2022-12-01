@@ -1,3 +1,15 @@
+# Frameworks
+
+- [ ] [Ember.js](https://emberjs.com)
+- [ ] [Alpine.js](https://alpinejs.dev)
+- [ ] [Lit](https://lit.dev)
+- [ ] [SolidJS](https://www.solidjs.com)
+- [ ] [Quick](https://qwik.builder.io)
+- [ ] [Stencil](https://stenciljs.com)
+- [ ] [Docusaurus](https://docusaurus.io)
+
+# Tools
+
 - [x] [Embla Carousel](https://www.embla-carousel.com) A lightweight carousel library with fluid motion and great swipe precision
 - [x] [colorgrad-js](https://github.com/mazznoer/colorgrad-js) High-performance Javascript color gradient library powered by Rust + WebAssembly
 - [x] [safe-json](https://github.com/ehmicky/safe-json-value) JSON serialization should never fail
