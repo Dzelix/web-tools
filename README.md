@@ -16,7 +16,7 @@
 - [ ] [redwoodjs](https://redwoodjs.com)
 - [ ] [Mithril.js](https://mithril.js.org)
 
-# Tools
+# JS tools
 
 - [ ] [EventEmitter3](https://github.com/primus/eventemitter3)
 - [x] [Embla Carousel](https://www.embla-carousel.com) A lightweight carousel library with fluid motion and great swipe precision
