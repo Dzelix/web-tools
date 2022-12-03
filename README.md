@@ -32,7 +32,6 @@
 - [ ] [Visual Viewport API](https://developer.mozilla.org/en-US/docs/Web/API/Visual_Viewport_API)
 - [ ] [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
 - [ ] [Web Share API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Share_API)
-- [ ] 
 
 # Fonts
 - [ ] [WOFF File Format 2.0](https://www.w3.org/TR/2022/REC-WOFF2-20220310/)
