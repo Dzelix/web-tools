@@ -1,11 +1,18 @@
-# Challenges
-
 # CSS specs
+- [ ] [CSS Containment Module Level 1](https://www.w3.org/TR/2022/REC-css-contain-1-20221025/)
+- [ ] [ARIA in HTML](https://www.w3.org/TR/2022/REC-html-aria-20220927/)
+- [ ] [Media Queries Level 3](https://www.w3.org/TR/2022/REC-mediaqueries-3-20220405/)
 
 # WEB API
+- [ ] [Geolocation API](https://www.w3.org/TR/2022/REC-geolocation-20220901/)
+
+# Fonts
+- [ ] [WOFF File Format 2.0](https://www.w3.org/TR/2022/REC-WOFF2-20220310/)
+
+# Living Standard
+- [ ] [DOM](https://dom.spec.whatwg.org)
 
 # Frameworks
-
 - [ ] [Ember.js](https://emberjs.com)
 - [ ] [Alpine.js](https://alpinejs.dev)
 - [ ] [Lit](https://lit.dev)
