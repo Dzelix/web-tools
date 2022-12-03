@@ -19,7 +19,20 @@
 - [ ] [Fullscreen API](https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API)
 - [ ] [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
 - [ ] [HTML Drag and Drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
-- [ ] []()
+- [ ] [History API](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
+- [ ] [IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+- [ ] [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+- [ ] [Page Visibility API](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API)
+- [ ] [Performance API](https://developer.mozilla.org/en-US/docs/Web/API/Performance_API)
+- [ ] [Pointer events](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events)
+- [ ] [Resize Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Resize_Observer_API)
+- [ ] [Screen Capture API](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API)
+- [ ] [Selection API](https://developer.mozilla.org/en-US/docs/Web/API/Selection_API)
+- [ ] [UI Events](https://developer.mozilla.org/en-US/docs/Web/API/UI_Events)
+- [ ] [Visual Viewport API](https://developer.mozilla.org/en-US/docs/Web/API/Visual_Viewport_API)
+- [ ] [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+- [ ] [Web Share API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Share_API)
+- [ ] 
 
 # Fonts
 - [ ] [WOFF File Format 2.0](https://www.w3.org/TR/2022/REC-WOFF2-20220310/)
