@@ -15,6 +15,7 @@
 - [ ] [Docusaurus](https://docusaurus.io)
 - [ ] [redwoodjs](https://redwoodjs.com)
 - [ ] [Mithril.js](https://mithril.js.org)
+- [ ] [Preact](https://preactjs.com)
 
 # JS tools
 
