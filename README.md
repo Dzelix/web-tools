@@ -8,6 +8,7 @@
 - [ ] [Stencil](https://stenciljs.com)
 - [ ] [Docusaurus](https://docusaurus.io)
 - [ ] [redwoodjs](https://redwoodjs.com)
+- [ ] [Mithril.js](https://mithril.js.org)
 
 # Tools
 
