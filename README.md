@@ -1,41 +1,8 @@
 # CSS specs
-- [ ] [CSS Containment Module Level 1](https://www.w3.org/TR/2022/REC-css-contain-1-20221025/)
-- [ ] [ARIA in HTML](https://www.w3.org/TR/2022/REC-html-aria-20220927/)
-- [ ] [Media Queries Level 3](https://www.w3.org/TR/2022/REC-mediaqueries-3-20220405/)
-- [ ] [CSS Cascading and Inheritance](https://www.w3.org/TR/2021/REC-css-cascade-3-20210211/)
-- [ ] [CSS Writing Modes Level 3](https://www.w3.org/TR/2019/REC-css-writing-modes-3-20191210/)
-- [ ] [Selectors Level 3](https://www.w3.org/TR/2018/REC-selectors-3-20181106/)
-- [ ] [Cascading Style Sheets, level 1](https://www.w3.org/TR/2018/SPSD-CSS1-20180913/) 
-
 
 # WEB API
-- [ ] [Broadcast Channel API](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API)
-- [ ] [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
-- [ ] [Channel Messaging API](https://developer.mozilla.org/en-US/docs/Web/API/Channel_Messaging_API)
-- [ ] [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API)
-- [ ] [Compression Streams API](https://developer.mozilla.org/en-US/docs/Web/API/Compression_Streams_API)
-- [ ] [Device orientation events](https://developer.mozilla.org/en-US/docs/Web/API/Device_orientation_events)
-- [ ] [File API](https://developer.mozilla.org/en-US/docs/Web/API/File_API)
-- [ ] [Fullscreen API](https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API)
-- [ ] [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
-- [ ] [HTML Drag and Drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
-- [ ] [History API](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
-- [ ] [IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
-- [ ] [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
-- [ ] [Page Visibility API](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API)
-- [ ] [Performance API](https://developer.mozilla.org/en-US/docs/Web/API/Performance_API)
-- [ ] [Pointer events](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events)
-- [ ] [Resize Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Resize_Observer_API)
-- [ ] [Screen Capture API](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API)
-- [ ] [Selection API](https://developer.mozilla.org/en-US/docs/Web/API/Selection_API)
-- [ ] [UI Events](https://developer.mozilla.org/en-US/docs/Web/API/UI_Events)
-- [ ] [Visual Viewport API](https://developer.mozilla.org/en-US/docs/Web/API/Visual_Viewport_API)
-- [ ] [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
-- [ ] [Web Share API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Share_API)
 
 # Fonts
-- [ ] [WOFF File Format 2.0](https://www.w3.org/TR/2022/REC-WOFF2-20220310/)
-- [ ] [CSS Fonts Module Level 3](https://www.w3.org/TR/2018/REC-css-fonts-3-20180920/)
 
 # Living Standard
 - [ ] [DOM](https://dom.spec.whatwg.org)
