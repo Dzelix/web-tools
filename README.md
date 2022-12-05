@@ -1,6 +1,6 @@
-# CSS specs
+# [CSS specs](https://www.w3.org/TR/?tag=css&version=latest)
 
-# WEB API
+# [WEB API](https://www.w3.org/TR/?tag=webapi&version=upcoming)
 
 # Frameworks
 - [ ] [Alpine.js](https://alpinejs.dev)
