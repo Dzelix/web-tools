@@ -1,0 +1,20 @@
+{
+  "name": "web-tools",
+  "version": "1.0.0",
+  "description": "# [WEB API](https://www.w3.org/TR/?tag=webapi&version=upcoming)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dzelix/web-tools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dzelix/web-tools/issues"
+  },
+  "homepage": "https://github.com/Dzelix/web-tools#readme"
+}
