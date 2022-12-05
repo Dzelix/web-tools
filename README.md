@@ -2,11 +2,6 @@
 
 # WEB API
 
-# Fonts
-
-# Living Standard
-- [ ] [DOM](https://dom.spec.whatwg.org)
-
 # Frameworks
 - [ ] [Ember.js](https://emberjs.com)
 - [ ] [Alpine.js](https://alpinejs.dev)
