@@ -3,7 +3,6 @@
 # WEB API
 
 # Frameworks
-- [ ] [Ember.js](https://emberjs.com)
 - [ ] [Alpine.js](https://alpinejs.dev)
 - [ ] [Lit](https://lit.dev)
 - [ ] [SolidJS](https://www.solidjs.com)
