@@ -1,75 +1,31 @@
-<html>
+<!DOCTYPE html>
 <head>
   <title>Alpine.js app</title>
 </head>
   <body>
-    <div x-data="{ open: false }">
-      <h1 x-show="open" @click="console.log(123)" @click.outside="open = false">OPEN</h1>
-      <button @click="open = !open">TOGGLER</button>
-    </div>
-    <div x-data="{
-      name: 'alex',
-      age: 0,
-      arr: [1,2,3,4,5],
-
-      show(){
-        console.log('show');
-        return 10;
-      },
-
-      hide(arg){
-        console.log(arg);
-      },
-
-      fn(e){
-        console.log(e);
-      },
-
-      show_name(){
-        console.log(this.name);
-      },
-
-      get divide(){
-        if(this.age < 18) return 'not allowed';
-        return 'allowed';
-      }
-
-
-    }">
-      <button @click="show">SHOW</button>
-      <button @click="hide('hide')">HIDE</button>
-      <button @click="fn">EVENT</button>
-      <span x-text="show()"></span>
-
-      <div>
-        <input type="text" x-model="name" placeholder="own name">
-        <button @click="show_name">SHOW NAME</button>
-        // не работает
-        <!-- <button @click="console.log(this.name)">DOES NOT SHOW NAME</button> -->
+    <h1>START</h1>
+      <div x-data="{
+        counter: 10
+      }">
+        <span x-text="counter"></span>
       </div>
-
-      <template x-for="item in [1,2,3,4,5]" :key="item">
-        <span x-text="item"></span>
-      </template>
-
-      <div>
-        <input type="text" placeholder="insert age" x-model="age">
-        <span x-text="divide"></span>
-      </div>
-
-      <div x-data="{ initial: 100 }">
-        <span x-text="initial">INITIAL -  </span>
-      </div>
-    </div>
-
-    <div x-data="{
-      open: false
-    }">
+    <div x-data="dropdown">
+      <span x-text="counter"></span>
       <template x-if="open">
-        <span>ALSO OPEN</span>
+        <span>it is open</span>
       </template>
-      <span x-show="open">OPEN</span>
+      <button @click="toggle">OPEN</button>
+    </div>
+    <div x-data="test('abc', 10)">
+      <span x-text="name"></span>
+      <span x-text="age"></span>
+      <button @click="log">NAME</button>
+    </div>
+    <div x-data="test('bca', 20)">
+      <span x-text="name"></span>
+      <span x-text="age"></span>
+      <button @click="log">NAME</button>
     </div>
   </body>
-  <script defer src="https://unpkg.com/alpinejs@3.10.5/dist/cdn.min.js"></script>
+  <script type="module" src="main.js"></script>
 </html>
