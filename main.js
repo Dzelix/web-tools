@@ -20,5 +20,14 @@ Alpine.data('dropdown', () => ({
   }
 }));
 
+Alpine.store('counter', {
+  age: 0,
+
+  addAge(){
+    this.age = this.age + 1;
+  }
+});
+
+
  
 Alpine.start();

@@ -26,6 +26,37 @@
       <span x-text="age"></span>
       <button @click="log">NAME</button>
     </div>
+
+    <div x-data>
+      <span x-text="$store.counter.age"></span>
+      <button @click="$store.counter.addAge()">ADD</button>
+    </div>
+
+    <div x-data>
+      <span x-text="$store.counter.age"></span>
+      <button @click="$store.counter.addAge()">ADD</button>
+    </div>
+
+    <div x-data="dropdown" class="abc" :class="!open ? 'bca' : ''" x-show.important="!open">
+      Dropdown Contents...
+    </div>
+
+    <div x-data>
+      <template x-for="i in 3">
+        <span x-text="i"></span>
+      </template>
+    </div>
+
+    <div x-data="{ label: 'Hello' }" x-effect="console.log(label)">
+      <button @click="label += ' World!'">Change Message</button>
+    </div>
+
+    <div x-data="{ message: 'message' }">
+      <span x-cloak x-text="message"></span>
+    </div>
+
+    <span x-data @click="console.log($el)">EL</span>
+
   </body>
   <script type="module" src="main.js"></script>
 </html>
