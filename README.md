@@ -1,6 +1,6 @@
 # [CSS specs](https://www.w3.org/TR/?tag=css&version=latest)
 
-- [ ] [CSS Snapshot 2022](https://www.w3.org/TR/2022/DNOTE-css-2022-20221122/) | [код]()
+- [ ] [CSS Snapshot 2022](https://www.w3.org/TR/2022/DNOTE-css-2022-20221122/) | [код](https://github.com/Dzelix/web-tools/tree/css-snapshot)
 
 # [WEB API](https://www.w3.org/TR/?tag=webapi&version=upcoming)
 
