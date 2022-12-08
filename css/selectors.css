@@ -1,3 +1,47 @@
+/* h1 {
+  font-size: 12px;
+} */
+
 * {
-  font-size: 120px;
+  font-size: 22px;
+}
+
+.active:hover {
+  color: red;
+}
+
+.active:active {
+  color: green;
+}
+
+.active:focus {
+  color: blue;
+}
+
+html {
+  color: blueviolet;
+}
+
+html:before {
+  position: absolute;
+  content: 'X';
+  top: 200px;
+  right: 200px;
+  /* color: blueviolet; */
+}
+
+input:checked {
+  transform: translateX(200px);
+}
+
+button:disabled {
+  background-color: aqua;
+}
+
+div:empty {
+  display: none;
+}
+
+button:enabled {
+  background-color: aqua;
 }
