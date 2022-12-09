@@ -18,9 +18,9 @@
   color: blue;
 }
 
-html {
+/* html {
   color: blueviolet;
-}
+} */
 
 html:before {
   position: absolute;
@@ -44,4 +44,74 @@ div:empty {
 
 button:enabled {
   background-color: aqua;
+}
+
+.first-child > span:first-child {
+  color: burlywood;
+}
+
+/* span:first-child {
+  color: brown;
+} */
+
+h1 {
+  display: block;
+}
+
+h1:first-letter {
+  color: blue;
+  font-size: 40px;
+  display: flex;
+}
+
+.empty:first-letter {
+  font-size: 120px;
+}
+
+.first-line:first-line {
+  text-transform: uppercase;
+}
+
+.first-child > p:first-of-type {
+  transform: translateX(200px);
+}
+
+/* *:first-of-type {
+  border: 1px solid red;
+} */
+
+/* body > *:first-of-type {
+  border: 1px solid red;
+} */
+
+label:first-of-type {
+  border: 1px solid green;
+}
+
+label:last-of-type {
+  border: 1px solid blue;
+}
+
+:link {
+  color: red;
+}
+
+:visited {
+  color: darkgoldenrod;
+}
+
+.not > a:not(:visited){
+  color: greenyellow;
+}
+
+/* .nth > span:nth-child(odd) {
+  font-size: 32px;
+}
+
+.no-siblings > span:only-child {
+  font-size: 60px;
+} */
+
+.no-siblings > span:only-of-type {
+  font-size: 60px;
 }

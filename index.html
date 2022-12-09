@@ -14,6 +14,8 @@
     <link rel="stylesheet" href="css/properties.css">
   </head>
   <body>
+    <!-- <p>very first</p> -->
+    <span>first</span>
     <h1>CSS SNAPSHOT 2022</h1>
     <span class="active">active</span>
     <label>
@@ -21,12 +23,41 @@
       <input type="checkbox">
     </label>
     <button disabled>disabled</button>
-    <div></div>
+    <div class="empty"></div>
     <button enabled>enabled</button>
-    <div class="first">
+    <div class="first-child">
+      <p>aaa</p>
+      <p>bbb</p>
+      <p>ccc</p>
       <span>a</span>
       <span>b</span>
       <span>c</span>
+    </div>
+    <p class="first-line">
+      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    </p>
+    <a href="#" target="_blank">link</a>
+    <a href="#1" target="_blank">visited</a>
+    <div class="not">
+      <a href="#2" target="_blank">A</a>
+      <a href="#3" target="_blank">B</a>
+    </div>
+    <div class="nth">
+      <span>a</span>
+      <span>b</span>
+      <span>c</span>
+      <span>d</span>
+    </div>
+    <div class="no-siblings">
+      <span>AA</span>
+    </div>
+    <div class="no-siblings">
+      <span>AA</span>
+      <p>BB</p>
+    </div>
+    <div class="no-siblings">
+      <span>CC</span>
+      <span>DD</span>
     </div>
   </body>
 </html>
