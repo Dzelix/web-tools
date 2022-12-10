@@ -16,6 +16,10 @@
 
 # JS tools
 
+- [ ] [Reduced.to](https://github.com/origranot/reduced.to) Reduced.to is a modern web application that reduces the length of link URL.
+- [ ] [Maska](https://beholdr.github.io/maska/#/) Input masks
+- [ ] [Civet](https://github.com/DanielXMoore/Civet) The CoffeeScript of TypeScript
+- [ ] [Harlem](https://harlemjs.com)Powerfully simple global state management for Vue 3
 - [ ] [EventEmitter3](https://github.com/primus/eventemitter3)
 - [x] [Embla Carousel](https://www.embla-carousel.com) A lightweight carousel library with fluid motion and great swipe precision
 - [x] [colorgrad-js](https://github.com/mazznoer/colorgrad-js) High-performance Javascript color gradient library powered by Rust + WebAssembly
