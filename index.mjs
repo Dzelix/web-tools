@@ -2,9 +2,9 @@ import test from 'node:test';
 import { strict as assert } from 'node:assert';
 import { describe, it } from 'node:test';
 
-// test('first test', () => {
-//   assert.strictEqual(1, 1);
-// });
+test('first testc from file', () => {
+  assert.strictEqual(1, 1);
+});
 
 
 // test('first test', async (t) => {
