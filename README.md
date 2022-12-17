@@ -19,7 +19,18 @@
 - [ ] [redwoodjs](https://redwoodjs.com)
 - [ ] [Mithril.js](https://mithril.js.org)
 
-# JS tools
+# MICROFRONTEND
+
+- [ ] [Podium](https://podium-lib.io)
+- [ ] [single-spa](https://single-spa.js.org)
+
+# CORE TOOLS
+
+- [ ] [ESLint](https://eslint.org)
+- [ ] [Babel](https://babeljs.io)
+- [ ] [Prettier](https://prettier.io)
+
+# OTHER TOOLS
 
 - [ ] [Scene.js](https://github.com/daybrush/scenejs) Scene.js is an JavaScript & CSS timeline-based animation library.
 - [ ] [Wretch](https://github.com/elbywan/wretch) wretch is a small wrapper around fetch
