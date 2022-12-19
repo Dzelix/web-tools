@@ -32,17 +32,17 @@
 
 # OTHER TOOLS
 
-- [ ] [Scene.js](https://github.com/daybrush/scenejs) Scene.js is an JavaScript & CSS timeline-based animation library.
-- [ ] [Wretch](https://github.com/elbywan/wretch) wretch is a small wrapper around fetch
-- [ ] [zx](https://github.com/google/zx) bash
-- [ ] [Trilium Notes](https://github.com/zadam/trilium)
-- [ ] [Pintora](https://github.com/hikerpig/pintora) Pintora is an extensible javascript text-to-diagrams library that works in both browser and Node.js.
-- [ ] [wild-wild-path](https://github.com/ehmicky/wild-wild-path) Object property paths with wildcards and regexps.
-- [ ] [Reduced.to](https://github.com/origranot/reduced.to) Reduced.to is a modern web application that reduces the length of link URL.
-- [ ] [Maska](https://beholdr.github.io/maska/#/) Input masks
-- [ ] [Civet](https://github.com/DanielXMoore/Civet) The CoffeeScript of TypeScript
-- [ ] [Harlem](https://harlemjs.com) Powerfully simple global state management for Vue 3
-- [ ] [EventEmitter3](https://github.com/primus/eventemitter3)
+- [x] [Scene.js](https://github.com/daybrush/scenejs) Scene.js is an JavaScript & CSS timeline-based animation library.
+- [x] [Wretch](https://github.com/elbywan/wretch) wretch is a small wrapper around fetch
+- [x] [zx](https://github.com/google/zx) bash
+- [x] [Trilium Notes](https://github.com/zadam/trilium)
+- [x] [Pintora](https://github.com/hikerpig/pintora) Pintora is an extensible javascript text-to-diagrams library that works in both browser and Node.js.
+- [x] [wild-wild-path](https://github.com/ehmicky/wild-wild-path) Object property paths with wildcards and regexps.
+- [x] [Reduced.to](https://github.com/origranot/reduced.to) Reduced.to is a modern web application that reduces the length of link URL.
+- [x] [Maska](https://beholdr.github.io/maska/#/) Input masks
+- [x] [Civet](https://github.com/DanielXMoore/Civet) The CoffeeScript of TypeScript
+- [x] [Harlem](https://harlemjs.com) Powerfully simple global state management for Vue 3
+- [x] [EventEmitter3](https://github.com/primus/eventemitter3)
 - [x] [Embla Carousel](https://www.embla-carousel.com) A lightweight carousel library with fluid motion and great swipe precision
 - [x] [colorgrad-js](https://github.com/mazznoer/colorgrad-js) High-performance Javascript color gradient library powered by Rust + WebAssembly
 - [x] [safe-json](https://github.com/ehmicky/safe-json-value) JSON serialization should never fail
