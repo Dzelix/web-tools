@@ -13,7 +13,7 @@
 - [ ] [SvelteKit](https://kit.svelte.dev)
 - [ ] [Qwick](https://qwik.builder.io)
 - [ ] [Lit](https://lit.dev)
-- [ ] [SolidJS](https://www.solidjs.com) | [код](https://github.com/Dzelix/web-tools/tree/solidjs-app)
+- [x] [SolidJS](https://www.solidjs.com) | [код](https://github.com/Dzelix/web-tools/tree/solidjs-app)
 - [ ] [Stencil](https://stenciljs.com)
 - [ ] [Docusaurus](https://docusaurus.io)
 - [ ] [redwoodjs](https://redwoodjs.com)
