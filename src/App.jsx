@@ -51,7 +51,6 @@ function App() {
 
 
   setTimeout(() => {
-    // setObj( v => { v.name = "three"; return {...v} } );
     setObj({ name: 'three' });
   }, 1000)
 
