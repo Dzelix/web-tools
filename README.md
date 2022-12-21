@@ -4,7 +4,7 @@
 
 # [WEB API](https://www.w3.org/TR/?tag=webapi&version=upcoming)
 
-- [ ][Selection API](https://w3c.github.io/selection-api/#selection-interface) | [код](https://github.com/Dzelix/web-tools/tree/selection-api)
+- [ ] [Selection API](https://w3c.github.io/selection-api/#selection-interface) | [код](https://github.com/Dzelix/web-tools/tree/selection-api)
 
 # NODE
 
