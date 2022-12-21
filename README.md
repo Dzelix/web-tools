@@ -4,6 +4,8 @@
 
 # [WEB API](https://www.w3.org/TR/?tag=webapi&version=upcoming)
 
+- [ ][Selection API](https://w3c.github.io/selection-api/#selection-interface) | [код](https://github.com/Dzelix/web-tools/tree/selection-api)
+
 # NODE
 
 - [x] [Test runner](https://nodejs.org/dist/latest-v18.x/docs/api/test.html) | [код](https://github.com/Dzelix/web-tools/tree/node-test_runner)
