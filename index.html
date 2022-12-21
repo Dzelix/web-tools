@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head></head>
+  <body>
+    <h1>Selection API</h1>
+    <div class="wrap">
+      <p class="par">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut augue in est accumsan blandit. Ut egestas, sapien vel hendrerit finibus, elit libero commodo metus, a ornare enim lorem sed nulla. Aliquam erat volutpat. Sed placerat tellus non nibh vulputate rhoncus. Pellentesque luctus turpis nibh, id porttitor arcu tempus vitae. Nulla ex nunc, gravida eu magna vitae, scelerisque blandit orci. Etiam pulvinar finibus nisi ut vulputate. Aliquam consectetur tristique sem at mollis. Etiam sed malesuada quam. Nam eleifend nisi vel ante imperdiet pellentesque. Donec et malesuada ex.
+        Maecenas imperdiet tempus quam vitae luctus. Ut neque orci, varius nec velit sed, convallis ornare enim.
+      </p>
+    </div>
+    <div class="input-wrap">
+      <span>Input Header</span>
+      <label>
+        <span>Input title</span>
+        <input type="text">
+      </label>
+    </div>
+    <p>🎅🎅🎅</p>
+
+    <div style="display: flex; gap: 12px;">
+      <span style="display: flex; width: 40px; height: 40px; background-color: red;"></span>
+      <span style="display: flex; width: 40px; height: 40px; background-color: red;"></span>
+      <span style="display: flex; width: 40px; height: 40px; background-color: red;"></span>
+    </div>
+  </body>
+  <script>
+    // document.addEventListener("selectstart", () => {
+    //   console.log("Selection started");
+    //   // console.log(window.getSelection());
+    // });
+
+    document.addEventListener('selectionchange', () => {
+      console.log("Selection changed");
+      console.log(window.getSelection());
+    });
+
+    // setTimeout(() => {
+    //   const par = document.querySelector('.par');
+    //   // window.getSelection().collapse(par, 0);
+    //   window.getSelection().collapseToEnd();
+
+    // }, 2000)
+
+    // setTimeout(() => {
+    //   let selection = window.getSelection();
+    //   selection.deleteFromDocument();
+    //   console.log(123)
+
+    // }, 5000)
+
+  </script>
+</html>
