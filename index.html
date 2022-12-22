@@ -18,7 +18,7 @@
     </div>
     <p>🎅🎅🎅</p>
 
-    <div style="display: flex; gap: 12px;">
+    <div class="els" style="display: flex; gap: 12px;">
       <span style="display: flex; width: 40px; height: 40px; background-color: red;"></span>
       <span style="display: flex; width: 40px; height: 40px; background-color: red;"></span>
       <span style="display: flex; width: 40px; height: 40px; background-color: red;"></span>
@@ -30,10 +30,10 @@
     //   // console.log(window.getSelection());
     // });
 
-    document.addEventListener('selectionchange', () => {
-      console.log("Selection changed");
-      console.log(window.getSelection());
-    });
+    // document.addEventListener('selectionchange', () => {
+    //   console.log("Selection changed");
+    //   console.log(window.getSelection());
+    // });
 
     // setTimeout(() => {
     //   const par = document.querySelector('.par');
@@ -48,6 +48,43 @@
     //   console.log(123)
 
     // }, 5000)
+
+    const fn = () => {
+      const el = document.querySelector('.par');
+      window.getSelection().extend(el);
+    }
+
+    // document.addEventListener('selectionchange', () => {
+    //   console.log("Selection changed");
+    //   console.log(window.getSelection())
+    //   fn();
+    // });
+
+    // document.addEventListener('selectionchange', () => {
+    //   console.log("Selection changed");
+    //   const sel = window.getSelection().getRangeAt(0)
+    //   console.dir({ 0: sel})
+    // });
+
+    // document.addEventListener('selectionchange', () => {
+    //   console.log("Selection changed");
+    //   window.getSelection().removeAllRanges();
+
+    //   // if(window.getSelection().rangeCount === 0) return;
+    //   // const s = window.getSelection().getRangeAt(0);
+    //   // console.log(s);
+    //   // window.getSelection().removeRange(s);
+    // });
+
+    // document.addEventListener('selectionchange', () => {
+    //   const el = document.querySelector('.els');
+    //   window.getSelection().selectAllChildren(el);
+    //   console.log(window.getSelection());
+    // })
+
+    document.addEventListener('selectionchange', () => {
+      console.log(window.getSelection().toString());
+    })
 
   </script>
 </html>
