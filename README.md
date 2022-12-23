@@ -12,6 +12,7 @@
 
 # Frameworks
 - [x] [Alpine.js](https://alpinejs.dev) | [код](https://github.com/Dzelix/web-tools/tree/alpinejs-app)
+- [ ] [Sveltet](https://svelte.dev) | [код]()
 - [ ] [SvelteKit](https://kit.svelte.dev)
 - [ ] [Qwick](https://qwik.builder.io)
 - [ ] [Lit](https://lit.dev)
