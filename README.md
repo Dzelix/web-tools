@@ -2,9 +2,10 @@
 
 - [ ] [CSS Snapshot 2022](https://www.w3.org/TR/2022/DNOTE-css-2022-20221122/) | [код](https://github.com/Dzelix/web-tools/tree/css-snapshot)
 
-# [WEB API](https://www.w3.org/TR/?tag=webapi&version=upcoming)
+# WEB API
 
-- [ ] [Selection API](https://w3c.github.io/selection-api/#selection-interface) | [код](https://github.com/Dzelix/web-tools/tree/selection-api)
+- [x] [Selection API](https://w3c.github.io/selection-api/#selection-interface) | [код](https://github.com/Dzelix/web-tools/tree/selection-api)
+- [ ] [Broadcast Channel API](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API)
 
 # NODE
 
@@ -12,7 +13,7 @@
 
 # Frameworks
 - [x] [Alpine.js](https://alpinejs.dev) | [код](https://github.com/Dzelix/web-tools/tree/alpinejs-app)
-- [ ] [Sveltet](https://svelte.dev) | [код]()
+- [ ] [Svelte](https://svelte.dev)
 - [ ] [SvelteKit](https://kit.svelte.dev)
 - [ ] [Qwick](https://qwik.builder.io)
 - [ ] [Lit](https://lit.dev)
