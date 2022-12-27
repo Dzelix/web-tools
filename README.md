@@ -5,7 +5,7 @@
 # WEB API
 
 - [x] [Selection API](https://w3c.github.io/selection-api/#selection-interface) | [код](https://github.com/Dzelix/web-tools/tree/selection-api)
-- [ ] [Broadcast Channel API](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API)
+- [x] [Broadcast Channel API](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API)
 - [ ] [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 - [ ] [Channel Messaging API](https://developer.mozilla.org/en-US/docs/Web/API/Channel_Messaging_API)
 - [ ] [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API)
