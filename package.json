@@ -1,0 +1,23 @@
+{
+  "name": "web-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dzelix/web-tools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dzelix/web-tools/issues"
+  },
+  "homepage": "https://github.com/Dzelix/web-tools#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
