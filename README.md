@@ -25,6 +25,8 @@
 - [ ] [redwoodjs](https://redwoodjs.com)
 - [ ] [Mithril.js](https://mithril.js.org)
 
+# [VUE COURSE](https://github.com/Dzelix/web-tools/tree/vue-course)
+
 # MICROFRONTEND
 
 - [ ] [Podium](https://podium-lib.io)
