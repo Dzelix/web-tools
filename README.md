@@ -6,13 +6,25 @@
 
 - [x] [Selection API](https://w3c.github.io/selection-api/#selection-interface) | [код](https://github.com/Dzelix/web-tools/tree/selection-api)
 - [x] [Broadcast Channel API](https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API)
-- [ ] [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 - [x] [Channel Messaging API](https://developer.mozilla.org/en-US/docs/Web/API/Channel_Messaging_API) | [код](https://github.com/Dzelix/web-tools/tree/channel-msg)
+- [ ] [HTML Drag and Drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
+- [ ] [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 - [ ] [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API)
+- [ ] [Page Visibility API](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API)
+- [ ] [Pointer events](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events)
+- [ ] [Pointer Lock API](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
+- [ ] [URL API](https://developer.mozilla.org/en-US/docs/Web/API/URL_API)
+- [ ] [Visual Viewport API](https://developer.mozilla.org/en-US/docs/Web/API/Visual_Viewport_API)
+- [ ] [Web Share API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Share_API)
 
 # NODE
 
 - [x] [Test runner](https://nodejs.org/dist/latest-v18.x/docs/api/test.html) | [код](https://github.com/Dzelix/web-tools/tree/node-test_runner)
+
+# BACKEND
+
+- [ ] [Deno](https://deno.land)
+- [ ] [Bun](https://bun.sh)
 
 # Frameworks
 - [x] [Alpine.js](https://alpinejs.dev) | [код](https://github.com/Dzelix/web-tools/tree/alpinejs-app)
