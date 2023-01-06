@@ -36,6 +36,7 @@
 - [ ] [Docusaurus](https://docusaurus.io)
 - [ ] [redwoodjs](https://redwoodjs.com)
 - [ ] [Mithril.js](https://mithril.js.org)
+- [ ] [Astro](https://docs.astro.)
 
 # [VUE COURSE](https://github.com/Dzelix/web-tools/tree/vue-course)
 
